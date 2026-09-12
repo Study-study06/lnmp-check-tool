@@ -11,3 +11,5 @@
 ## 用法
 ```bash
 python3 check_lnmp.py
+#我的第一个自动化巡检脚本
+#This is my first automation script
